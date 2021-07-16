@@ -1,20 +1,5 @@
-#CG Staking Codebase
 
 
-## Theme Impelementation
 
-For Color applying, please define color first in theme/types.ts under colors type. Then implement under dark and light theme file colors. 
-
-
-## State Implementation
-please use state folder
-
-
-## View Implementation
-When we need to implement new View. We need to first define a folder under src->views folder. Then please create following hierarchy for each view. 
-
-    ├───views
-        ├───components <Define All Components>
-        ├───index.ts
-        ├───<View Name File>.tsx
-        ├───types.tsx <Define All types used under this view>
+## What is ATLAS?
+ATLAS is a cross-chain DEX (decentralized cryptocurrency exchange, which gives traders the best pricing for their trades by using an advanced trade routing algorithm) that runs on the Solana network. ATLAS was created to offer traders a sole user-friendly UI that provides aggregated liquidity. The primary purpose of ATLAS is to become a crypto trader’s number one platform for the implementation of trades using any token that is supported under DEX.
